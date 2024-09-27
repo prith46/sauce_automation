@@ -1,5 +1,5 @@
 @echo off
-REM Create a virtual environment (optional)
+REM Create a virtual environment
 python -m venv venv
 call venv\Scripts\activate
 
